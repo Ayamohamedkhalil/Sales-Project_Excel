@@ -3,7 +3,7 @@
 
  📌 Project Overview
 
-This project presents a fully interactive Sales Performance Dashboard* built in Microsoft Excel using the AdventureWorks database.
+This project presents a fully interactive Sales Performance Dashboard built in Microsoft Excel using the AdventureWorks database.
 
 The raw transactional data was transformed and structured into a Star Schema Data Warehouse model to facilitate efficient analysis and improve reporting performance.
 
